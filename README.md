@@ -22,23 +22,23 @@ This project analyzes customer shopping behavior to uncover purchasing trends, c
 
 ## Project Workflow
 
-##### 1. Data Loading
+#### 1. Data Loading
 - Imported the dataset using Python.
 - Checked data types and basic information.
 - Identified missing values and duplicate records.
     
-##### 2. Exploratory Data Analysis (EDA)
+#### 2. Exploratory Data Analysis (EDA)
 - Analyzed data distribution and summary statistics.
 - Explored relationships between variables.
 - Created visualizations to identify trends and patterns.
     
-##### 3. Data Cleaning
+#### 3. Data Cleaning
 - Removed duplicate records.
 - Handled missing values.
 - Corrected inconsistent data formats.
 - Prepared the dataset for analysis.
     
-##### 4. SQL Analysis
+#### 4. SQL Analysis
 - Imported the cleaned dataset into MySQL.
 - Wrote SQL queries to:
   - Retrieve filtered data
@@ -47,7 +47,7 @@ This project analyzes customer shopping behavior to uncover purchasing trends, c
   - Sort and rank results
   - Generate analytical insights
     
-##### 5. Power BI Dashboard
+#### 5. Power BI Dashboard
 
 Built an interactive dashboard featuring:
 
@@ -63,8 +63,14 @@ Built an interactive dashboard featuring:
 ## Dashboard
 
 The Power BI dashboard provides an interactive overview of the dataset, allowing users to explore trends, compare performance metrics, and gain actionable insights through dynamic visualizations.
+
+
 ![Dashboard 1](dashboard/Dashboard1.png)
+
+
 ![Dashboard 2](dashboard/Dashboard2.png)
+
+
 ![Dashboard 3](dashboard/Dashboard3.png)
 
 
@@ -81,6 +87,7 @@ The project helped uncover meaningful insights by:
 
 ## 📂 Project Structure
 
+```text
 Data-Analytics-Project/
 │
 ├── Dataset/
@@ -99,7 +106,7 @@ Data-Analytics-Project/
 │   └── dashboard.png
 │
 └── README.md
-
+```
 
 ## Key Skills Demonstrated
 
