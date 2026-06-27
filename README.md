@@ -65,13 +65,13 @@ Built an interactive dashboard featuring:
 The Power BI dashboard provides an interactive overview of the dataset, allowing users to explore trends, compare performance metrics, and gain actionable insights through dynamic visualizations.
 
 
-![Dashboard 1](Dashboardimages/Dashboard1.png)
+![Dashboard 1](Dashboard_images/Dashboard1.png)
 
 
-![Dashboard 2](Dashboardimages/Dashboard2.png)
+![Dashboard 2](Dashboard_images/Dashboard2.png)
 
 
-![Dashboard 3](Dashboardimages/Dashboard3.png)
+![Dashboard 3](Dashboard_images/Dashboard3.png)
 
 
 
