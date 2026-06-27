@@ -3,102 +3,111 @@
 ## 📌 Overview
 
 This project analyzes customer shopping behavior to uncover purchasing trends, customer preferences, and revenue-driving factors. The analysis combines Python for data processing, MySQL for querying, and Power BI for interactive business dashboards.
---
+
 
 ## Dataset
 
-- Source: (Add your dataset source or link here)
+- Source: [Dataset](https://github.com/Rishita877/CustomershoppinBehaviour_analysis/blob/a99a31b1d3f443e9777d96cb2edae9f80ccdcf40/customer_shopping_behavior.csv)
 - Format: CSV
 - Description: The dataset contains structured data used for performing data analysis and visualization.
   
 
 ## 🛠 Tools & Technologies
-Python
-Jupyter Notebook
-MySQL
-Power BI
---
-
-## 🔄 Workflow
-
-```text
-Raw Dataset
-    ↓
-Data Cleaning (Python)
-    ↓
-Exploratory Data Analysis
-    ↓
-MySQL Database Integration
-    ↓
-SQL Business Queries
-    ↓
-Power BI Dashboard
-    ↓
-Business Insights
-```
+- Python
+- Jupyter Notebook
+- MySQL
+- Power BI
+- Git & GitHub
 
 
-## 📈 Exploratory Data Analysis
+## Project Workflow
 
-### Revenue Distribution
+##### 1. Data Loading
+- Imported the dataset using Python.
+- Checked data types and basic information.
+- Identified missing values and duplicate records.
+    
+##### 2. Exploratory Data Analysis (EDA)
+- Analyzed data distribution and summary statistics.
+- Explored relationships between variables.
+- Created visualizations to identify trends and patterns.
+    
+##### 3. Data Cleaning
+- Removed duplicate records.
+- Handled missing values.
+- Corrected inconsistent data formats.
+- Prepared the dataset for analysis.
+    
+##### 4. SQL Analysis
+- Imported the cleaned dataset into MySQL.
+- Wrote SQL queries to:
+  - Retrieve filtered data
+  - Perform aggregations
+  - Group records
+  - Sort and rank results
+  - Generate analytical insights
+    
+##### 5. Power BI Dashboard
 
-* Purchase amount analysis
-* Spending trends
+Built an interactive dashboard featuring:
 
-### Customer Demographics
+  - KPI Cards
+  - Trend Analysis
+  - Category-wise Performance
+  - Interactive Filters and Slicers
+  - Charts and Visualizations
+    
 
-* Gender distribution
-* Age analysis
 
-### Product Performance
 
-* Most purchased products
-* Category-wise sales
+## Dashboard
 
-### Review Ratings
+The Power BI dashboard provides an interactive overview of the dataset, allowing users to explore trends, compare performance metrics, and gain actionable insights through dynamic visualizations.
 
-* Average product ratings
-* Customer satisfaction trends
 
----
 
-## 💡 Key Insights
+## Results
 
-📌 Female and male customers contribute differently to overall revenue.
+The project helped uncover meaningful insights by:
 
-📌 Certain products consistently achieve higher customer ratings.
+- Identifying important trends and patterns
+- Highlighting key performance indicators (KPIs)
+- Improving data quality through preprocessing
+- Presenting insights in an interactive and easy-to-understand dashboard
 
-📌 Customer demographics significantly influence purchasing behavior.
-
-📌 Product categories show distinct sales and satisfaction patterns.
-
-📌 Interactive dashboards enable faster business decision-making.
-
----
-
-## 📷 Dashboard Preview
-
-### Power BI Dashboard
-
-<img width="800" alt="Dashboard Screenshot" src="YOUR_SCREENSHOT_LINK">
-
----
 
 ## 📂 Project Structure
 
-```text
-Customer-Shopping-Behavior-Analysis/
+Data-Analytics-Project/
 │
-├── data/
-├── notebooks/
-├── sql/
-├── powerbi/
-├── images/
-├── README.md
-└── requirements.txt
-```
+├── Dataset/
+│   └── dataset.csv
+│
+├── Python/
+│   └── analysis.ipynb
+│
+├── SQL/
+│   └── queries.sql
+│
+├── PowerBI/
+│   └── dashboard.pbix
+│
+├── Images/
+│   └── dashboard.png
+│
+└── README.md
 
----
+
+## Key Skills Demonstrated
+
+- Data Cleaning
+- Exploratory Data Analysis (EDA)
+- SQL Querying
+- Data Visualization
+- Dashboard Development
+- Business Insight Generation
+
+  
 
 ## 👩‍💻 Author
 
