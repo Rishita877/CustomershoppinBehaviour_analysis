@@ -5,18 +5,12 @@
 This project analyzes customer shopping behavior to uncover purchasing trends, customer preferences, and revenue-driving factors. The analysis combines Python for data processing, MySQL for querying, and Power BI for interactive business dashboards.
 --
 
-## 🎯 Project Goals
+## Dataset
 
-✔ Analyze customer purchasing patterns
-
-✔ Identify top-performing products
-
-✔ Compare revenue across customer segments
-
-✔ Explore review ratings and customer satisfaction
-
-✔ Build an interactive Power BI dashboard
-
+- Source: (Add your dataset source or link here)
+- Format: CSV
+- Description: The dataset contains structured data used for performing data analysis and visualization.
+  
 
 ## 🛠 Tools & Technologies
 Python
